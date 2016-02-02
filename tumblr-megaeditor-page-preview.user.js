@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name        tumblr-megaeditor-page-preview
-// @namespace   namespace http://reppets.hatenablog.com/
+// @name tumblr-megaeditor-page-preview
+// @namespace namespace http://reppets.hatenablog.com/
 // @description show an entry page's preview in inline frame on the Tumblr Mega Editor page when the mouse cursor is on.
 // @description:ja Tumblrの複数投稿編集ツール(mega-editor)で、マウスカーソルを当てた投稿の個別ページをインラインフレームにプレビュー表示します。
-// @compatible  firefox (verified with 43.0.4)
-// @compatible  chrome (verified with  47.0.2526.111)
-// @license     https://raw.githubusercontent.com/reppets/tumblr-megaeditor-page-preview/master/LICENSE
-// @include     https://www.tumblr.com/mega-editor/*
-// @version     1.0.0
-// @grant       none
+// @compatible firefox (verified with 43.0.4)
+// @compatible chrome (verified with  47.0.2526.111)
+// @license https://raw.githubusercontent.com/reppets/tumblr-megaeditor-page-preview/master/LICENSE
+// @include https://www.tumblr.com/mega-editor/*
+// @version 1.0.0
+// @grant none
 // ==/UserScript==
 var TIMEOUT_MILLISEC = 1000;
 
